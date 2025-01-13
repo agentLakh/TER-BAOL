@@ -1,0 +1,52 @@
+Numéro Pièce d'Identité: 123456
+Nom: mbacke
+Prénom: mamoune
+Date de Naissance: 12/23/1232
+Date de Départ: 12/2/3212
+Heure de Départ: 12:23
+Gare de Départ: colobane
+Gare de Destination: pikinee
+Classe: premiere
+---------------------------
+Numéro Pièce d'Identité: 45678
+Nom: ndoye
+Prénom: fallou
+Date de Naissance: 12/23/43
+Date de Départ: 12/3
+Heure de Départ: 12:21
+Gare de Départ: pikine
+Gare de Destination: diourbel
+Classe: econnomique
+---------------------------
+Numéro Pièce d'Identité: 1234567
+Nom: jhvjh
+Prénom: siuygdcdis
+Date de Naissance: sieugeius
+Date de Départ: fsiugseiuf
+Heure de Départ: sekhfgeui
+Gare de Départ: sdiuvgdsui
+Gare de Destination: eiufgheriu
+Classe: zeofeiouz
+---------------------------
+Réservation 1:
+Numéro Pièce d'Identité: 4567890
+Nom: qncvod
+Prénom: qsdlks
+Date de Naissance: (-è_çà
+Date de Départ: -è_çà
+Heure de Départ: -è_çà
+Gare de Départ: ghjkl
+Gare de Destination: kjhgf
+Classe: kqjncknckjzevbn
+---------------------------
+Réservation 1:
+Numéro Pièce d'Identité: ozenczoc
+Nom: oencoze
+Prénom: zoefnezovn
+Date de Naissance: zeofnrzvouzeonovnz
+Date de Départ: zeonovnz
+Heure de Départ: zerofnruovnvbnoeuv
+Gare de Départ: nvbnoeuv
+Gare de Destination: vnero
+Classe: vneovn
+---------------------------
