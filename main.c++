@@ -139,29 +139,5 @@ cin >> choix;
 
     } while (choix != 4);
 
-    
-        
-
-
-
-
-
-
- //int nombreReservations;
-
-    // Demander le nombre de réservations à effectuer
-  /*  cout << "Combien de réservations voulez-vous effectuer ? ";
-    cin >> nombreReservations;
-
-    // Créer un tableau dynamique pour stocker les réservations
-    Reservation* t = new Reservation[nombreReservations];
-
-    // Saisir et enregistrer les réservations
-    for (int i = 0; i < nombreReservations; i++) {
-        cout << "\n--- Réservation " << i + 1 << " ---" << endl;
-        Reservation r;
-        enregistrerReservation(t, r,i);
-    }
-    */
     return 0;
 }
